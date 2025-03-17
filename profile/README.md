@@ -38,7 +38,7 @@ So far, getting the shop on a blank NAND has been unsuccesful.
 
 [LNLenost](https://github.com/LNLenost): Web developer & admin
 
-[andry6702](NUL): Moderator & developer
+[andry6702](https://www.youtube.com/@andry6702/): Moderator & developer
 
 [idkwhereisthisname](https://github.com/idkwhere1sthisname): Developer & admin
 
