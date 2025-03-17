@@ -9,7 +9,7 @@ WiiMart is the first ever Wii Shop Channel revival that lasted more than a week 
 You can find its source code here.
 
 # Download
-The cIOSes are [here](https://wiimart.github.io/website/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/website/wad/).
+The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/).
 In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
 
 # Installation
@@ -32,10 +32,19 @@ Install both the WiiMart WAD and the patched IOS WAD (for Wii). Install by going
 So far, getting the shop on a blank NAND has been unsuccesful.
 
 # Staff
-Coming soon!
+[OcarinaofTime64](https://github.com/OcarinaofTime): Owner
 
+[Wabagg123](https://github.com/Wabagg123): Developer
 
+[LNLenost](https://github.com/LNLenost): Web developer & admin
 
+[andry6702](NUL): Moderator & developer
+
+[idkwhereisthisname](https://github.com/idkwhere1sthisname): Developer & admin
+
+[Gemdation](https://gemdation.com): Admin
+
+[Thom](https://github.com/thom2305): Admin
 
 
 (Website currently managed by [LNLenost](https://github.com/LNLenost))
