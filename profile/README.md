@@ -31,7 +31,11 @@ Install both the WiiMart WAD and the patched IOS WAD (for Wii). Install by going
 
 So far, getting the shop on a blank NAND has been unsuccesful.
 
+# Staff
+Coming soon!
 
 
 
-(Website managed by [LNLenost](https://github.com/LNLenost))
+
+
+(Website currently managed by [LNLenost](https://github.com/LNLenost))
