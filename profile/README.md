@@ -1,6 +1,6 @@
 # WiiMart: a working, active WSC revival
 
-<img src="https://github.com/WiiMart/WiiMart/blob/main/WiiMart_star_logo.png" alt="WiiMart's logo">
+<img src="https://github.com/WiiMart/WiiMart/blob/main/WiiMart_star_logo.png" alt="WiiMart's logo" width="128" height="128" align="right" />
 
 Nintendo, if you want me to take this down, please email me at wiimartshopping@gmail.com
 (please don't though I love this)
@@ -45,6 +45,10 @@ So far, getting the shop on a blank NAND has been unsuccesful.
 [Gemdation](https://gemdation.com): Admin
 
 [Thom](https://github.com/thom2305): Admin
+
+[ChrisPlayzWii<!--/BLOX-->](https://github.com/ChrisPlayzYT): Developer & admin
+
+[YourTooSlow](https://github.com/your2slow): Admin
 
 
 (Website currently managed by [LNLenost](https://github.com/LNLenost))
