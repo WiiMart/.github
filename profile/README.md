@@ -32,7 +32,7 @@ Install both the WiiMart WAD and the patched IOS WAD (for Wii). Install by going
 So far, getting the shop on a blank NAND has been unsuccesful.
 
 # Staff
-[OcarinaofTime64](https://github.com/OcarinaofTime): Owner
+[OcarinaofTime64](https://github.com/OcarinaofTime): Owner & Main Developer
 
 [Wabagg123](https://github.com/Wabagg123): Developer
 
