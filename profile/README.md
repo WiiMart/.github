@@ -1,16 +1,14 @@
 # WiiMart: a working, active WSC revival
 
-<img src="https://github.com/WiiMart/WiiMart/blob/main/WiiMart_star_logo.png" alt="WiiMart's logo" width="128" height="128" align="right" />
+<img src="https://github.com/LNLenost/various-stuff/blob/main/WiiMart_star_logo.png" width="100" height="100" align="right" />
 
 Nintendo, if you want me to take this down, please email me at wiimartshopping@gmail.com
 (please don't though I love this)
-
 WiiMart is the first ever Wii Shop Channel revival that lasted more than a week and still wasn't nuked!
 You can find its source code here.
 
 # Download
-The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/).
-In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
+The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/). In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
 
 # Installation
 Downloading WiiMart varies on what platform you are on.
@@ -18,7 +16,9 @@ Downloading WiiMart varies on what platform you are on.
 - Console
 
 Download the WiiMart WAD and the patched IOS WAD for your console type (Wii/vWii). We recommend [YAWMME](https://oscwii.org/library/app/yawmME) for installing WADs.
--# vWii is the Wii U's Wii Mode
+
+<sub>vWii is the Wii U's Wii Mode</sub>
+
 You can install both WADs normally, but if they give you an error such as `-1022` or `-1029` you can delete the existing title then install. Press `-` to mark the channel for uninstallation, and then mark it with `+` for installation.
 
 - Dolphin
@@ -31,24 +31,5 @@ Install both the WiiMart WAD and the patched IOS WAD (for Wii). Install by going
 
 So far, getting the shop on a blank NAND has been unsuccesful.
 
-# Staff
-[OcarinaofTime64](https://github.com/OcarinaofTime): Owner & Main Developer
 
-[Wabagg123](https://github.com/Wabagg123): Developer
-
-[LNLenost](https://github.com/LNLenost): Web developer & admin
-
-[andry6702](https://www.youtube.com/@andry6702/): Moderator & developer
-
-[idkwhereisthisname](https://github.com/idkwhere1sthisname): Developer & admin
-
-[Gemdation](https://gemdation.com): Admin
-
-[Thom](https://github.com/thom2305): Admin
-
-[ChrisPlayzWii<!--/BLOX-->](https://github.com/ChrisPlayzYT): Developer & admin
-
-[YourTooSlow](https://github.com/your2slow): Admin
-
-
-(Website currently managed by [LNLenost](https://github.com/LNLenost))
+Pages managed by [LNLenost](https://github.com/LNLenost)
