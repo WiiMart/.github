@@ -1,16 +1,20 @@
 # WiiMart: a working, active WSC revival
 
-<img src="https://github.com/LNLenost/various-stuff/blob/main/WiiMart_star_logo.png" width="128" height="128" align="right" />
+<img src="WiiMart_star_logo.png" width="100" height="100" align="right" />
 
 Nintendo, if you want us to take this down, email us at wiimartshopping@gmail.com and we will immediately take this down upon request.
 (Please don't though, we love this 🥺)
 
 WiiMart is the first ever Wii Shop Channel revival that lasted more than a week and still wasn't nuked!
 
-# Download
-The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/). In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
+# Download (automatic)
+If you want to install WiiMart with ease, check out the [WiiMart Installer.](https://github.com/WiiMart/WiiMartInstaller)
+Else you can follow the instructions below if you want to install it manually.
 
-# Installation
+# Download (manual)
+The IOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/). In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
+
+# Installation (manual)
 Downloading WiiMart varies on what platform you are on.
 
 - Console
