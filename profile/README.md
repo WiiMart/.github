@@ -8,4 +8,4 @@ If you want to learn more, go [check out our website!](https://wiimart.org)
 
 *WiiMart is not affiliated with Nintendo or any related parties.*
 
-*To contact, please send an email to wiimartshopping@gmail.com.*
+*To contact, please send an email to support@wiimart.org*
