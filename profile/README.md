@@ -1,5 +1,5 @@
-# We are moving away from github and going to use our own self hosted gitlab
-You can find it [here](https://wiilab.wiimart.org/wiimart)
+> [!WARNING]
+> WiiMart and all of its projects are moving to GitLab. To continue viewing the project, go to https://wiilab.wiimart.org/wiimart
 
 # WiiMart: an active Wii Shop revival!
 
