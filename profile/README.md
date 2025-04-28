@@ -1,3 +1,6 @@
+# We are moving away from github and going to use our own self hosted gitlab
+You can find it [here](https://wiilab.wiimart.org/wiimart)
+
 # WiiMart: an active Wii Shop revival!
 
 <img src="https://wiimart.github.io/media/branding-bag-no-bg.png" width="100" height="100" align="right" />
